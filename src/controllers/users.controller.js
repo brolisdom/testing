@@ -29,7 +29,7 @@ usersCtrl.signup = async (req, res) => {
             service: 'gmail',
             auth: {
                 user: 'brolisdom99@gmail.com',
-                pass: 'Braulio.99'
+                pass: ''
             }
         });
         const handlebarOptions = {
